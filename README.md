@@ -19,7 +19,7 @@ I am an aspiring Software Engineer based in Pune, India, specializing in core we
 *   **Core Infrastructure:** Architected an optimized testing engine capable of handling real-time countdown sync, complex multi-correct marking schemes, and responsive layout scaling.
 *   **Exam Architectures Built:** Fully maps structural logic for NTA-pattern JEE Mains (75-question formats), complex JEE Advanced frameworks, NEET scoring matrices, and MHTCET schemas.
 *   **Tech Stack:** Python, HTML5, CSS3, JSON, Firebase Realtime Database / Authentication.
-*   *Note: Built from a private production repository (`final`); architecture breakdown or live staging walkthrough available upon request.*
+*   *Note: Built from a private production repository (`quizable`); architecture breakdown or live staging walkthrough available upon request.*
 
 ## 🤝 Connect with Me
 
