@@ -24,6 +24,7 @@ I am an aspiring Software Engineer based in Pune, India, specializing in core we
 ## 🤝 Connect with Me
 
 **💼 LinkedIn:** linkedin.com/in/parthhavle
+
 **📧 Email:** havleparth@gmail.com
 <!--
 **parthhavle/parthhavle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
