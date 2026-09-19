@@ -23,7 +23,7 @@ I am an aspiring Software Engineer based in Pune, India, specializing in core we
 
 ## 🤝 Connect with Me
 
-**💼 LinkedIn:** linkedin.com/in/parthhavle
+**💼 LinkedIn:** [linkedin.com/in/parthhavle](https://www.linkedin.com/in/parthhavle)
 
 **📧 Email:** havleparth@gmail.com
 <!--
