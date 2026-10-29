@@ -13,7 +13,7 @@ I am an aspiring Software Engineer based in Pune, India, specializing in core we
 ### 🏆 Featured Project
 
 #### 🌐 [Quizable.online](https://quizable.online/) — NTA-Pattern Online Testing Platform
-*A high-fidelity, pixel-accurate Computer-Based Test (CBT) simulation platform engineered for competitive exams like JEE, NEET, and MHTCET.*
+*A pixel-accurate Computer-Based Test (CBT) simulation platform engineered for competitive exams like JEE, NEET, and MHTCET.*
 
 *   **Real-World Impact:** Scaled organically to **500+ active users within 4 months** of launch.
 *   **Core Infrastructure:** Architected an optimized testing engine capable of handling real-time countdown sync, complex multi-correct marking schemes, and responsive layout scaling.
